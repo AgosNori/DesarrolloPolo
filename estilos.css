@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #b1bdc7;
+
+}
+.nav .nav-item .nav-link{
+    color: black;
+}
+.logo .logito{
+    width: 15%;
+    margin-left: 43%;
+    margin-top: -2%;
+}
+.redes .lg{
+    margin-left: 90%;
+    
+}
+.redes{
+    margin-top: -4.5%;
+}
+
+.card{
+  margin-left: 10%;
+  margin-top: 5%;
+  width: 10%;
+}
+h2{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.tarjetas .card .imagen{
+    opacity: 94%;
+}
+.cad{
+    margin-left: 40%;
+    margin-top: -21%;
+}
+.card3{
+    margin-left: 70%;
+    margin-top: -18.5%;
+}
+h2{
+    margin-left: 40%;
+}
+.mapa{
+    margin-left: 30%;
+}
+.video{
+    margin-left: 15%;
+}
+.musica{
+    margin-left: 65%;
+    margin-top: -10%;
+}
+footer{
+    margin-top: 10%;
+}
+p{
+    margin-left: 40%;
+}
+.redesfooter{
+    margin-left: 42%;
+}
